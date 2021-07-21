@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'YouTube',
-      icon: 'youtube',
-      link: 'https://www.youtube.com/',
+      name: 'GS KB',
+      icon: 'database',
+      link: 'https://outsystemsrd.atlassian.net/wiki/spaces/CloudKB/overview?homepageId=491658',
     },
   ],
 
@@ -78,27 +78,27 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'Media',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'YouTube',
+        link: 'https://www.youtube.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'HBO',
+        link: 'https://hboportugal.com/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Netflix',
+        link: 'https://netflix.com/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Amazon.es',
+        link: 'http://amazon.es/',
       },
     ],
     secondList: [
@@ -107,12 +107,12 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Udemy',
+        link: 'https://www.udemy.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'BeachCam',
+        link: 'https://beachcam.meo.pt/livecams/',
       },
       {
         name: 'WhatsApp',
