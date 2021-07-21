@@ -22,11 +22,11 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: '82c29fdbgd6aebbb595d402f8a65fabf',
+  weatherKey: 'd5392e9190af57a190ca98595deab27c',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherLatitude: '38.643330',
+  weatherLongitude: '-9.167230',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
@@ -50,7 +50,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'ZenDesk',
-      icon: 'trello',
+      icon: 'bar-chart-2',
       link: 'https://supportoutsystems.zendesk.com/agent/filters/360031114058',
     },
     {
@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -115,8 +115,8 @@ const CONFIG = {
         link: 'https://dribbble.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'WhatsApp',
+        link: 'https://web.whatsapp.com/',
       },
     ],
   },
