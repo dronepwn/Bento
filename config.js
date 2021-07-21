@@ -50,7 +50,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'ZenDesk',
-      icon: 'activity',
+      icon: 'film',
       link: 'https://supportoutsystems.zendesk.com/agent/filters/360031114058',
     },
     {
@@ -62,7 +62,7 @@ const CONFIG = {
     {
       id: '5',
       name: 'Reddit',
-      icon: 'bookmark',
+      icon: 'github',
       link: 'https://reddit.com',
     },
     {
