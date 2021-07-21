@@ -22,7 +22,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '82c29fdbgd6aebbb595d402f8a65fabf',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
   weatherLatitude: '37.774929',
@@ -45,13 +45,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'ZenDesk',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://supportoutsystems.zendesk.com/agent/filters/360031114058',
     },
     {
       id: '4',
