@@ -16,10 +16,10 @@ const CONFIG = {
   openInNewTab: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
+  greetingMorning: 'Good morning,',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Go to Sleep,',
 
   // Weather
   weatherKey: 'd5392e9190af57a190ca98595deab27c',
