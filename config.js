@@ -97,8 +97,12 @@ const CONFIG = {
         link: 'https://netflix.com/',
       },
       {
-        name: 'Amazon.es',
-        link: 'http://amazon.es/',
+        name: 'BeachCam',
+        link: 'https://beachcam.meo.pt/livecams/',
+      },
+      {
+        name: 'Surfline',
+        link: 'https://www.surfline.com/surf-report/costa-da-caparica/5842041f4e65fad6a7708e65',
       },
     ],
     secondList: [
@@ -111,12 +115,8 @@ const CONFIG = {
         link: 'https://www.udemy.com/',
       },
       {
-        name: 'BeachCam',
-        link: 'https://beachcam.meo.pt/livecams/',
-      },
-      {
-        name: 'Surfline',
-        link: 'https://www.surfline.com/surf-report/costa-da-caparica/5842041f4e65fad6a7708e65',
+        name: 'Amazon.es',
+        link: 'http://amazon.es/',
       },
       {
         name: 'WhatsApp',
