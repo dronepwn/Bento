@@ -115,6 +115,10 @@ const CONFIG = {
         link: 'https://beachcam.meo.pt/livecams/',
       },
       {
+        name: 'Surfline',
+        link: 'https://www.surfline.com/surf-report/costa-da-caparica/5842041f4e65fad6a7708e65',
+      },
+      {
         name: 'WhatsApp',
         link: 'https://web.whatsapp.com/',
       },
