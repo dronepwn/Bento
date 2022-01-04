@@ -49,9 +49,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'ZenDesk',
+      name: 'VictorOps',
       icon: 'film',
-      link: 'https://supportoutsystems.zendesk.com/agent/filters/360031114058',
+      link: 'https://portal.victorops.com/ui/talkdesk-inc/incidents',
     },
     {
       id: '4',
@@ -69,7 +69,7 @@ const CONFIG = {
       id: '6',
       name: 'GS KB',
       icon: 'database',
-      link: 'https://outsystemsrd.atlassian.net/wiki/spaces/CloudKB/overview?homepageId=491658',
+      link: 'https://talkdesk.atlassian.net/wiki/spaces/VAN/overview?homepageId=1509491585',
     },
   ],
 
