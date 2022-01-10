@@ -37,9 +37,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'PowerBI',
+      name: 'VictorOps',
       icon: 'bar-chart',
-      link: 'https://app.powerbi.com/groups/me/apps/c5d26f6f-df03-4c39-8160-96a50e90ae74/reports/d0d698c8-1904-4b1a-8c51-b41aa6e892c0/ReportSection6d1a6e72dc5b4459cd31?ctid=1e7930e6-1ca4-40df-ac06-adabc2b139a3&bookmarkGuid=Bookmarkeb9e787c137d047a58b9',
+      link: 'https://portal.victorops.com/ui/talkdesk-inc/incidents',
     },
     {
       id: '2',
