@@ -38,7 +38,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'VictorOps',
-      icon: 'bar-chart',
+      icon: 'list',
       link: 'https://portal.victorops.com/ui/talkdesk-inc/incidents',
     },
     {
@@ -49,9 +49,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'VictorOps',
+      name: 'VINC',
       icon: 'film',
-      link: 'https://portal.victorops.com/ui/talkdesk-inc/incidents',
+      link: 'https://talkdesk.atlassian.net/jira/software/projects/VINC/boards/1196',
     },
     {
       id: '4',
@@ -67,7 +67,7 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'GS KB',
+      name: 'Vanguard KB',
       icon: 'database',
       link: 'https://talkdesk.atlassian.net/wiki/spaces/VAN/overview?homepageId=1509491585',
     },
